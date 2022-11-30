@@ -1,0 +1,11 @@
+{
+  "name": "guessing-game",
+  "version": "1.0.0",
+  "description": "React Guessing Game - Front End Design",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Katrina Gill",
+  "license": "MIT"
+}
